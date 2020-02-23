@@ -2,10 +2,13 @@
 	<changes>
 		<version>0.1</version>
 		<change>Initial Release</change>
+		
 		<version>0.1.1</version>
 		<change>Updated to fix some icons.</change>
+		
 		<version>0.1.2</version>
 		<change>Updated to include notification badges.</change>
+		
 		<version>0.1.3</version>
 		<change>Updated to make use of the updated repo UI.</change>
 	</changes>
