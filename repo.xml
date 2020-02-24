@@ -1,9 +1,6 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>I (TryingDev06) am not responsible for any damage that occurs through the use of anything you download from this repo. By installing  any package or the continued use of this repository for any purpose you agree to these terms.</name>
-		</link>
-		<link>
 			<name>Follow Me On Twitter!</name>
 			<url>https://twitter.com/TryingDev06</url>
 			<iconclass>fa fa-twitter</iconclass>
@@ -12,6 +9,9 @@
 			<name>Feel Free To Contact Me!</name>
 			<url>mailto:modmacbook1@gmail.com</url>
 			<iconclass>fa fa-envelope</iconclass>
+		</link>
+		<link>
+			<name>I (TryingDev06) am not responsible for any damage that occurs through the use of anything you download from this repo. By installing  any package or the continued use of this repository for any purpose you agree to these terms.</name>
 		</link>
 	</footerlinks>
 </repo>
