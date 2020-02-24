@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies>mobilesubstrate, wallpaperloader</dependencies>
 	<descriptionlist>
-		<description>These are the adaptive wallpapers for my Zircon Themes, and will change depending on which mode, Light or Dark, you have enabled.&#xD;You can set them in Settings under Wallpaper > Choose a New Wallpaper > Still.&#xD;The dark wallpaper was designed with OLED displays in mind.&#xD;&#xD; The "wallpaperloader" dependency can be installed from this repo: https://skitty.xyz/repo/&#xD;&#xD;If you find any bugs, want to submit feedback, or want to request that an icon be added, use any of the contact links at the bottom of the page to contact me and I'll do my best to help out!</description>
+		<description>These are the adaptive wallpapers for my Zircon Themes, and will change depending on which mode, Light or Dark, you have enabled. You can set them in Settings under Wallpaper > Choose a New Wallpaper > Still. The dark wallpaper was designed with OLED displays in mind. The "wallpaperloader" dependency can be installed from this repo: https://skitty.xyz/repo/ . If you find any bugs, want to submit feedback, or want to request that an icon be added, use any of the contact links at the bottom of the page to contact me and I'll do my best to help out!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
